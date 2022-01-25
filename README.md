@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm <b><i>Ritik Makhija.</i></b></h1> <br>
+I'm a 2nd-year undergrad @ IET-DAVV pursuing CSE.
+I'M FULL STACK DEVELOPER, BLOCKCHAIN DEVELOPER, DIGITAL MARKETER AND DESIGNER
+<br></br>
 
-<!--
-**ritik-prog/ritik-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: MERN | SOLIDITY | UI/UX
+<br></br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskarn17&show_icons=true)  
+<br>
+![Profile views](https://komarev.com/ghpvc/?username=sanskarn17&label=Profile%20views&color=0e75b6&style=flat)
+<a href="https://github.com/sanskarn17?tab=followers"><img src="https://img.shields.io/github/followers/sanskarn17?style=social" alt="GitHub Badge"></a>
