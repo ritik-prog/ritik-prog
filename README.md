@@ -1,5 +1,5 @@
 <h1 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm <b><i>Ritik Makhija.</i></b></h1> <br>
-I'm a 3rd-year BCA student and full stack developer, blockchain developer, marketing strategy and figma designer
+I'm a 3rd-year BCA student and full stack developer, blockchain developer, marketing strategist and figma designer
 <br></br>
 
 
