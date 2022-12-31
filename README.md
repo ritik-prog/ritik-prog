@@ -1,6 +1,5 @@
 <h1 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm <b><i>Ritik Makhija.</i></b></h1> <br>
-I'm a 3rd-year BCA STUDENT. </br>
-I'M FULL STACK DEVELOPER, BLOCKCHAIN DEVELOPER, DIGITAL MARKETER AND DESIGNER
+I'm a 3rd-year BCA student and Full stack developer, Blockchain developer, Marketing strategy AND Figma designer
 <br></br>
 
 
