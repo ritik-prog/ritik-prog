@@ -99,7 +99,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://user-images.githubusercontent.com/35072415/222193839-d5844be5-96b1-4b47-8253-d0148d28ebb0.gif" width ="80">
 <br>
 <div>
 
