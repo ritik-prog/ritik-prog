@@ -52,6 +52,7 @@
       alt="typescript"/>
   </a>
 <br>   
+	
 - **Front-End Development**:
 
    <a href="https://getbootstrap.com" target="_blank">
