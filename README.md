@@ -153,6 +153,8 @@
 	  
 - **Version Control & CI/CD**:
 
+	  ![Terraform](https://img.shields.io/badge/Terraform-7a42bc?style=for-the-badge&logo=terraform&logoColor=black) 
+    ![Pulumi](https://img.shields.io/badge/Pulumi-7f5ac3?style=for-the-badge&logo=pulumi&logoColor=black) 
   	<a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -171,8 +173,6 @@
   <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a>
-    ![Terraform](https://img.shields.io/badge/Terraform-7a42bc?style=for-the-badge&logo=terraform&logoColor=black) 
-    ![Pulumi](https://img.shields.io/badge/Pulumi-7f5ac3?style=for-the-badge&logo=pulumi&logoColor=black) 
 
 - **Softwares and Tools**:
 
