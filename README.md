@@ -84,6 +84,7 @@
       alt="webpack"/>
   </a>
 <br>
+	
 - **Cloud Hosting**:
 
     <a href="https://azure.microsoft.com/en-in/" target="_blank">
@@ -101,9 +102,10 @@
       alt="heroku"/> 
   </a> 
 <br>
+	
 - **Backend**:
 
- 	<a href="https://nodejs.org" target="_blank"> 
+	<a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
@@ -129,6 +131,7 @@
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
       alt="nginx"/> 
   </a> 
+	  
 - **Database**:
 
 	<a href="https://www.postgresql.org" target="_blank"> 
@@ -147,6 +150,7 @@
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
+	  
 - **Version Control & CI/CD**:
 
   	<a href="https://git-scm.com/" target="_blank">
