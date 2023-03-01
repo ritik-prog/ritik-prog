@@ -50,8 +50,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
-  </a>
-<br>   
+  </a> 
 	
 - **Front-End Development**:
 
@@ -83,7 +82,6 @@
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
       alt="webpack"/>
   </a>
-<br>
 	
 - **Cloud Hosting**:
 
@@ -101,7 +99,6 @@
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
   </a> 
-<br>
 	
 - **Backend**:
 
