@@ -250,7 +250,7 @@
 <a href="https://medium.com/@ritikmakhija2002" target="_blank">
 <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example" style="margin-bottom: 5px;"/>
 </a>
-<a href="https://medium.com/@ritikmakhija2002" target="_blank">
+<a href="https://blog.ritikmakhija.tech/" target="_blank">
 <img src="https://img.shields.io/badge/hashnode-2463eb.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="example" style="margin-bottom: 5px;"/>
 </a>
 </div>
