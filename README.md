@@ -7,11 +7,10 @@
 
 <br>
 
-
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://user-images.githubusercontent.com/35072415/222192940-65cefa8e-96ae-4526-a954-a6f380eb5b6d.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/35072415/222193320-4e758022-c055-42d2-b404-228eae3dbb30.gif" width = 250px></picture>
 
 <br>
 
