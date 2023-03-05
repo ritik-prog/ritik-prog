@@ -1,0 +1,31 @@
+name: "Hashnode Blog"
+
+env:
+  hashnode_username: 'ritikmakhija'
+  count: 6
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *' # Runs Every Day
+
+jobs:
+  update:
+    name: "Update Latest Blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📥  blog-grid"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: ${{ env.count }}
+          FILE: "blog-grid.md"
+          STYLE: "blog-grid"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
