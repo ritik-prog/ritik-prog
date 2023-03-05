@@ -25,7 +25,7 @@ jobs:
         with:
           USERNAME: ${{ env.hashnode_username }}
           COUNT: ${{ env.count }}
-          FILE: "blog-grid.md"
+          FILE: "README.md"
           STYLE: "blog-grid"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
