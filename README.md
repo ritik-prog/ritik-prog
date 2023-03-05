@@ -34,7 +34,8 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![UNIX](https://img.shields.io/badge/Unix%20-%231572B6.svg?style=for-the-badge&logo=unix&logoColor=white)
     <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
@@ -50,7 +51,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
-  </a> 
+  </a>
 	
 - **Front-End Development**:
 
