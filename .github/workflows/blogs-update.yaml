@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📥  blog-grid"
-        uses: "varunsridharan/action-hashnode-blog@main"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
           USERNAME: ${{ env.hashnode_username }}
           COUNT: ${{ env.count }}
