@@ -237,7 +237,7 @@
 <a href="https://www.linkedin.com/in/ritik-makhija-171173147/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-makhija-171173147/" target="_blank">
+<a href="https://www.linkedin.com/in/ritikmakhija/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=e87d40&style=for-the-badge&logo=instagram&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 <a href="https://twitter.com/ritikmakhija_" target="_blank">
