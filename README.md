@@ -17,8 +17,6 @@
 - Experienced professional with a diverse skill set in AWS, full-stack web development, blockchain technology, Figma design, and marketing strategy.
 - Strong understanding and hands-on experience in designing, deploying, and maintaining cloud applications and infrastructure using various AWS services.
 - Solid understanding and experience in developing decentralized applications and working with various blockchain protocols.
-- Personal website [link](https://ritikmakhija.tech/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://ritikmakhija.tech/resume.pdf)
 
 <br>
 
