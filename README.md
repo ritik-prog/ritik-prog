@@ -1,277 +1,71 @@
+# Hi, I'm Ritik Makhija 👋
 
-<h1 align="center"><b>Hi , I'm Ritik Makhija </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+**Associate Product Manager who turns user pain points into shipped AI products**
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AWS+Certified+Cloud+Practitioner..&#x2714;++;Self-taught+Full-Stack+Developer;Software+Engineer;DevOps+Engineer;Active+Learner+and+Blogger;Love+to+learn+new+Tech..<3"></a>
-</p>
+Builder-turned-PM (ex-AI/Full-Stack Developer) · 70% less manual effort · 35% higher reply rates
 
-<br>
+📍 Bangalore, India
+📧 ritikmakhija2002@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/ritikmakhija)
 
-	
-## <picture><img src = "https://user-images.githubusercontent.com/35072415/222192940-65cefa8e-96ae-4526-a954-a6f380eb5b6d.gif" width = 50px></picture> **About me**
+---
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/35072415/222193320-4e758022-c055-42d2-b404-228eae3dbb30.gif" width = 250px></picture>
+## 🚀 About Me
 
-<br>
+Early-career product builder with 2.5+ years shipping AI products end-to-end. I spot user pain points, define requirements, and lead cross-functional teams from discovery to launch with data-driven validation. I pair hands-on technical depth (LLMs, SQL, AWS) with measurable impact.
 
-- Experienced professional with a diverse skill set in AWS, full-stack web development, blockchain technology, Figma design, and marketing strategy.
-- Strong understanding and hands-on experience in designing, deploying, and maintaining cloud applications and infrastructure using various AWS services.
-- Solid understanding and experience in developing decentralized applications and working with various blockchain protocols.
+- 🔭 Currently: **Associate Product Manager** @ EmaReach AI (promoted from Software Developer)
+- 🌱 Background: Full-Stack & AI Developer turned Product Manager
+- 💡 Interests: LLMs, AI Agents, RAG systems, Product Strategy, Growth
+- 🎓 MCA (ML & AI) — Amity University Online
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## 🛠️ Skills
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+**Product**
+`Product Strategy` `Roadmapping` `PRDs` `Backlog Prioritization` `Competitive Analysis` `GTM` `Agile/Scrum`
 
-<p align="center">
+**Research & Metrics**
+`User Research` `Customer Interviews` `Voice-of-Customer` `A/B & Pilot Testing` `KPIs` `OKRs`
 
-- **Languages**:
-    
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![UNIX](https://img.shields.io/badge/Unix%20-%231572B6.svg?style=for-the-badge&logo=unix&logoColor=white)
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
-  </a>
-	
-- **Front-End Development**:
+**Technical**
+`SQL` `APIs` `RAG & LLM Systems` `AI Agents` `AWS` `React` `Node.js` `Python`
 
-   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
-  </a>
-  <a href="https://bulma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
-      alt="bulma"/>
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-  </a> 
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-  </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
-  </a>
-	
-- **Cloud Hosting**:
+**Tools**
+`Jira` `Notion` `Figma` `Git` `n8n` `OpenAI/Claude APIs`
 
-	![Aws](https://img.shields.io/badge/aws-d33732?style=for-the-badge&logo=amazon&logoColor=white) 
-    <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a> 
-	
-- **Backend**:
+---
 
-	<a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
-  <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
-  </a>
-    <a href="https://spring.io/" target="_blank"> 
-      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
-  </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-      alt="nginx"/> 
-  </a> 
-	  
-- **Database**:
+## 💼 Highlights
 
-	<a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-  </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
-	  
-- **Version Control & CI/CD**:
+- 📈 Led a 3-person team to build a real-account email tracking system, lifting reply rates 3–4% after exposing flaws in competitors' fake-inbox approach
+- 🤖 Drove PRD & roadmap for an LLM-powered prospecting & outreach tool — cut manual work **70%**, lifted reply rates **35%**
+- 📱 Pitched & scoped SocialKaptan AI, a desktop app for AI-assisted LinkedIn/Instagram growth — now live
+- ✍️ Launched an autonomous AI blogging tool — grew organic traffic **55%** in 90 days
+- ☁️ Rebuilt platform on AWS — handled 3x users while cutting hosting costs **40%**
 
-    ![Terraform](https://img.shields.io/badge/Terraform-7a42bc?style=for-the-badge&logo=terraform&logoColor=black) 
-    ![Pulumi](https://img.shields.io/badge/Pulumi-7f5ac3?style=for-the-badge&logo=pulumi&logoColor=black) 
-  	<a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
-  </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a>
+---
 
-- **Softwares and Tools**:
+## 🧩 Featured Projects
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-    <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-  </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
-  </a>
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
-  <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
-      alt="virtualbox"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  </a>
+### [n8n Automation Template Library](https://github.com/ritik-prog) (Open Source)
+Built and shipped 5,000+ automation templates with a searchable React app and one-click download, used by a global developer community.
 
-- **Extras**:
+### Blockchain Learning Chatbot — 🥇 1st Prize, Sankalpa 2023 (30+ teams)
+Conversational chatbot explaining blockchain with live on-chain queries. Built solo in 24 hours using TypeScript, Ethereum, and Web3.js.
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+---
 
-</p>
+## 📜 Certifications
 
-<br>
-<br>
+- Project Management Assessment — LearnTube.ai (2026)
+- AWS Certified Cloud Practitioner — Amazon Web Services (2023)
 
------
+---
 
-<br>
+## 📫 Connect with Me
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-	
-<div align="center">
-<a href="https://github.com/ritik-prog/" target="_blank">
-   <img src="https://github-readme-stats.vercel.app/api?username=ritik-prog&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik-prog&show_icons=true&&count_private=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ritik-prog"/>
-</a>
-</div>
-
-<br>
-<br>
-<br>	
-	
------
-
-<br>
-
-## <b> Let's Connect..!</b>
-<br>
-<div>
-
-
-<a href="https://www.linkedin.com/in/ritikmakhija/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-<a href="https://www.instagram.com/ritikkmakhija/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=e87d40&style=for-the-badge&logo=instagram&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-<a href="https://twitter.com/ritikmakhija_" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-<a href="mailto:ritikmakhija2002@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@ritikmakhija2002" target="_blank">
-<img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example" style="margin-bottom: 5px;"/>
-</a>
-<a href="https://blog.ritikmakhija.tech/" target="_blank">
-<img src="https://img.shields.io/badge/hashnode-2463eb.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="example" style="margin-bottom: 5px;"/>
-</a>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
-## <b>My Latest Blog Posts 👇</b>
-<!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://ritikmakhija.hashnode.dev/perfect-college-project-clepng6tx000509l6dq1w84a2" title="Easy Installation and Pre-built Project for Complain and Request Management System: Perfect for Your College Project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677594528232/dfe24c3f-daa2-4f46-9a81-3b922fce54e4.png" alt="Easy Installation and Pre-built Project for Complain and Request Management System: Perfect for Your College Project"   /></a>
-<a href="https://ritikmakhija.hashnode.dev/perfect-college-project-clepng6tx000509l6dq1w84a2" title="Easy Installation and Pre-built Project for Complain and Request Management System: Perfect for Your College Project"><strong>Easy Installation and Pre-built Project for Complain and Request Management System: Perfect for Your College Project</strong></a>
-<div><strong>1 Mar 2023</strong> | <strong>Updated: 1 Mar 2023</strong></div>
-<br/> Introduction
-Are you a college student looking to create a project that showcases your coding skills? Look no further than the Complain and Request Management System project, available for free on GitHub. This project is written in both C# and VB.NET...</td><td><a href="https://ritikmakhija.hashnode.dev/turbocharge-your-cicd-pipeline-set-up-jenkins-quickly-and-easily-on-aws-cleo471sq000m09mgg93t48n2" title="Turbocharge Your CI/CD Pipeline: Set Up Jenkins Quickly and Easily on AWS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677580084416/d8152fde-c4e3-4817-b480-e9baf2632040.png" alt="Turbocharge Your CI/CD Pipeline: Set Up Jenkins Quickly and Easily on AWS"   /></a>
-<a href="https://ritikmakhija.hashnode.dev/turbocharge-your-cicd-pipeline-set-up-jenkins-quickly-and-easily-on-aws-cleo471sq000m09mgg93t48n2" title="Turbocharge Your CI/CD Pipeline: Set Up Jenkins Quickly and Easily on AWS"><strong>Turbocharge Your CI/CD Pipeline: Set Up Jenkins Quickly and Easily on AWS</strong></a>
-<div><strong>28 Feb 2023</strong> | <strong>Updated: 28 Feb 2023</strong></div>
-<br/> Introduction
-Pipelines for Continuous Integration and Continuous Delivery (CI/CD) are an essential part of software development. Jenkins is a popular tool for developing, testing, and deploying code with Amazon Web Services (AWS). Creating a Jenkins ...</td></tr><tr><td><a href="https://ritikmakhija.hashnode.dev/nft-mint-page-in-minutes-clem9pdv4000d0amh85ilecp7" title="NFT Mint Page in Minutes: The Simple Solution You Need"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677468457596/9781b91e-cf7f-44be-a19e-f1d1f926724a.png" alt="NFT Mint Page in Minutes: The Simple Solution You Need"   /></a>
-<a href="https://ritikmakhija.hashnode.dev/nft-mint-page-in-minutes-clem9pdv4000d0amh85ilecp7" title="NFT Mint Page in Minutes: The Simple Solution You Need"><strong>NFT Mint Page in Minutes: The Simple Solution You Need</strong></a>
-<div><strong>27 Feb 2023</strong></div>
-<br/> Introduction
-I am excited to introduce my latest project, which is a ReactJS-based NFT minting platform with integration of the third-web library. This innovative platform allows users to connect their wallets and easily host the NFT mint website wit...</td><td><a href="https://ritikmakhija.hashnode.dev/from-zero-to-aws-certified-cloud-practitioner-my-study-experience-cleisn2nm000009l9et003dsf" title="From Zero to AWS Certified cloud practitioner: My Study Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677294758688/d87f33c5-df34-4e22-8d45-bcf63392a15f.png" alt="From Zero to AWS Certified cloud practitioner: My Study Experience"   /></a>
-<a href="https://ritikmakhija.hashnode.dev/from-zero-to-aws-certified-cloud-practitioner-my-study-experience-cleisn2nm000009l9et003dsf" title="From Zero to AWS Certified cloud practitioner: My Study Experience"><strong>From Zero to AWS Certified cloud practitioner: My Study Experience</strong></a>
-<div><strong>24 Feb 2023</strong> | <strong>Updated: 1 Mar 2023</strong></div>
-<br/> My Experience and Advice for Success in the AWS CCP
-In this blog, I will share my personal journey of going from zero to AWS CCP certified. You will learn about my study approach, the resources I used, and the challenges I faced along the way. Whethe...</td></tr></table>
-<!-- HASHNODE_BLOG:END -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikmakhija)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ritikmakhija2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ritik-prog)
