@@ -1,66 +1,84 @@
 # Hi, I'm Ritik Makhija 👋
 
-**Associate Product Manager who turns user pain points into shipped AI products**
+**Founder & Product Lead building AI-powered products that remove friction, not add features**
 
-Builder-turned-PM (ex-AI/Full-Stack Developer) · 70% less manual effort · 35% higher reply rates
+Ex-full-stack developer turned product founder · Built cold outreach infrastructure, AI social automation, and tools used by thousands
 
-📍 Bangalore, India
-📧 ritikmakhija2002@gmail.com
+📍 Bangalore, India  
+📧 ritikmakhija2002@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/ritikmakhija)
 
 ---
 
 ## 🚀 About Me
 
-Early-career product builder with 2.5+ years shipping AI products end-to-end. I spot user pain points, define requirements, and lead cross-functional teams from discovery to launch with data-driven validation. I pair hands-on technical depth (LLMs, SQL, AWS) with measurable impact.
+I started as a full-stack developer and moved into product, and that technical background shapes how I make product decisions under startup constraints. I focus on feasibility, timelines, and hidden risks while shipping quickly from 0 to launch.
 
-- 🔭 Currently: **Associate Product Manager** @ EmaReach AI (promoted from Software Developer)
-- 🌱 Background: Full-Stack & AI Developer turned Product Manager
-- 💡 Interests: LLMs, AI Agents, RAG systems, Product Strategy, Growth
-- 🎓 MCA (ML & AI) — Amity University Online
+Today, I’m **Founder & Product Lead at EmaReach AI**, building multi-channel outreach and social automation tools. I build in public and believe in **removing friction over adding features**.
+
+- 🔭 Currently: **Founder & Product Lead** @ EmaReach AI  
+- 🌱 Background: Full-Stack Developer → Product Founder  
+- 💡 Focus: AI-powered outreach, automation, product strategy, 0→1 execution  
+- 🎓 MCA (AI/ML) — Amity University Online
 
 ---
 
 ## 🛠️ Skills
 
-**Product**
-`Product Strategy` `Roadmapping` `PRDs` `Backlog Prioritization` `Competitive Analysis` `GTM` `Agile/Scrum`
+**Product**  
+`Product Strategy` `Product Management` `0→1 Development` `Roadmapping` `Agile/Scrum`
 
-**Research & Metrics**
-`User Research` `Customer Interviews` `Voice-of-Customer` `A/B & Pilot Testing` `KPIs` `OKRs`
+**Engineering**  
+`Python` `React` `Node.js` `REST APIs` `Solidity` `AWS` `Docker`
 
-**Technical**
-`SQL` `APIs` `RAG & LLM Systems` `AI Agents` `AWS` `React` `Node.js` `Python`
+**AI / Automation**  
+`LLM Integrations` `Workflow Automation` `AI Tooling` `Cursor AI`
 
-**Tools**
-`Jira` `Notion` `Figma` `Git` `n8n` `OpenAI/Claude APIs`
+**Growth**  
+`Marketing Strategy` `SEO` `Cross-functional Collaboration` `Negotiation` `Leadership`
 
 ---
 
-## 💼 Highlights
+## 💼 Experience Highlights
 
-- 📈 Led a 3-person team to build a real-account email tracking system, lifting reply rates 3–4% after exposing flaws in competitors' fake-inbox approach
-- 🤖 Drove PRD & roadmap for an LLM-powered prospecting & outreach tool — cut manual work **70%**, lifted reply rates **35%**
-- 📱 Pitched & scoped SocialKaptan AI, a desktop app for AI-assisted LinkedIn/Instagram growth — now live
-- ✍️ Launched an autonomous AI blogging tool — grew organic traffic **55%** in 90 days
-- ☁️ Rebuilt platform on AWS — handled 3x users while cutting hosting costs **40%**
+- 🚀 Built & launched **EmaReach AI**: cold outreach infrastructure with **30 sending domains, 150 mailboxes, and 6,000 emails/day capacity**
+- 📱 Built & launched **SocialKaptan**, an AI-powered social media management platform
+- 🧠 Built & launched **AI Kaptan** (`aikaptan.com`), a directory of **15,000+ AI tools**
+- 🧭 Own full product lifecycle: discovery → roadmap → sprints → QA → GTM
+- 🤝 At Project Mart (Freelance), helped **700+ students** with academic projects, technical learning, software development, and 1:1 consultations across AI/web/software engineering
 
 ---
 
 ## 🧩 Featured Projects
 
-### [n8n Automation Template Library](https://github.com/ritik-prog) (Open Source)
-Built and shipped 5,000+ automation templates with a searchable React app and one-click download, used by a global developer community.
+### [EmaReach AI](https://emareach.com)
+Cold email + outreach infrastructure with 30 sending domains, 150 mailboxes, and 6,000 emails/day capacity.
 
-### Blockchain Learning Chatbot — 🥇 1st Prize, Sankalpa 2023 (30+ teams)
-Conversational chatbot explaining blockchain with live on-chain queries. Built solo in 24 hours using TypeScript, Ethereum, and Web3.js.
+### [SocialKaptan](https://socialkaptan.com)
+AI-powered social media management platform for automated content and engagement.
+
+### [AI Kaptan](https://aikaptan.com)
+Directory of 15,000+ AI tools to help users discover the right AI tools quickly.
+
+### [n8n Automation Template Library](https://github.com/ritik-prog)
+Open-source, searchable library of 5,000+ production-ready n8n workflows across AI, CRM, finance, e-commerce, marketing, and RAG use cases.
 
 ---
 
 ## 📜 Certifications
 
-- Project Management Assessment — LearnTube.ai (2026)
-- AWS Certified Cloud Practitioner — Amazon Web Services (2023)
+- Project Management Assessment — LearnTube.ai (Jun 2026)
+- AWS Certified Cloud Practitioner — Amazon Web Services
+- Be A DevOps Pro — iNeuron.ai (Prometheus, Grafana) (Jan 2023)
+
+---
+
+## 🏆 Honors & Awards
+
+- 🥇 1st Prize · Hackathon — Jain University Bangalore (Feb 2023)  
+  Built a blockchain chatbot explaining blockchain principles in 24 hours.
+- 🥈 2nd Place · Spider Web Design — St. Anne's College (Aug 2022)  
+  Built a fully functional, visually striking website using HTML/CSS/JS.
 
 ---
 
@@ -69,3 +87,4 @@ Conversational chatbot explaining blockchain with live on-chain queries. Built s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikmakhija)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ritikmakhija2002@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ritik-prog)
+
